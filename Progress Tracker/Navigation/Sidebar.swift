@@ -20,7 +20,7 @@ struct Sidebar: View {
                 
             }
             .listStyle(SidebarListStyle())
-            .navigationTitle("Progress Tracker")
+            .navigationTitle("Learn")
             
             LecturesView()
         }
